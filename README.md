@@ -36,7 +36,7 @@ Spring Security
 
 
 ## Repository Structure
-
+``` text
 Spring_boot/
 ├── Java/
 │   ├── basics/
@@ -64,8 +64,7 @@ Spring_boot/
 │   └── ...
 │
 └── README.md
-
-
+```
 
 ## What I'm Learning
 
