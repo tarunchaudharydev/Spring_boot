@@ -1,5 +1,7 @@
 // loop is a programming construct that allows you to repeat a block of code multiple times. In Java, there are several types of loops, including for loops, while loops, and do-while loops.
 
+// gitaccount:- https://github.com/standardgalactic
+
 /*
  syntax of for loop:
     for(initialization; condition; increment/decrement){
