@@ -31,5 +31,5 @@ public class Conditional{
             salary = salary + 10000;
         }
         System.out.println(salary);
-    }
+    } 
 }
